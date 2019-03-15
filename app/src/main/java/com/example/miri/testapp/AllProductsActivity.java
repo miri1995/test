@@ -39,7 +39,7 @@ public class AllProductsActivity extends ListActivity {
     private static String url_all_products = "https://api.androidhive.info/android_connect/get_all_products.php";
 
     // JSON Node names
-    private static final String TAG_SUCCESS = "success";
+    private static final String TAG_SUCCESS = "success2";
     private static final String TAG_PRODUCTS = "products";
     private static final String TAG_PID = "pid";
     private static final String TAG_NAME = "name";
